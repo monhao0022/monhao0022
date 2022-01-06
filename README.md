@@ -1,7 +1,7 @@
 - 👋 Hellooo,wold... I’m @monhao0022
 - 👀 I’m interested in  data science
 - 🌱 I’m currently learning  python
-- 📫 How to reach me  monhao0022gmail.com
+- 📫 How to reach me  monhao0022@gmail.com
 
 
 <!---
